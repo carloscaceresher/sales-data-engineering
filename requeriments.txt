@@ -1,0 +1,4 @@
+gdown==5.2.0
+pandas==2.1.4
+seaborn==0.12.2
+seaborn==0.12.2
